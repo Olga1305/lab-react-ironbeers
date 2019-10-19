@@ -1,0 +1,15 @@
+.MenuBox {
+    text-align: left;
+}
+
+.MenuBox img {
+    max-width: 640px;
+}
+
+.MenuBox h2 {
+    margin: 0 auto;
+}
+
+.info {
+    padding: 0 30px;
+}

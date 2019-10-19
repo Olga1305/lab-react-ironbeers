@@ -1,0 +1,24 @@
+.detail-info {
+    padding: 30px;
+
+}
+
+.detail-image img{
+    height: 300px;
+    text-align: center;
+}
+
+.detail-image {
+    padding-top: 50px;   
+    text-align: center;
+}
+
+.title, .subtitle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.grey {
+    color: grey;
+    font-weight: bold;
+} 

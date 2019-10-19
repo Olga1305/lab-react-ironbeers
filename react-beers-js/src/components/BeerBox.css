@@ -1,0 +1,32 @@
+.BeerBox {
+    border-bottom: solid 1px grey;
+    padding: 20px;
+    display: flex;
+  }
+
+.BeerBox span {
+    font-weight: bold;
+}
+
+.beer-image {
+    width: 150px;
+    display: flex;
+    justify-content: center;    
+} 
+
+.beer-image img {
+    height: 150px;
+}
+
+.beer-info h2 {
+    color: black;
+}
+
+.beer-info h3 {
+    color: grey;
+}
+
+.beer-info p {
+    color: black;
+    font-size: 0.9rem;
+}
